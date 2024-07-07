@@ -52,7 +52,8 @@
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="FileMonitorMiniFilter.rc" />
-    <ClCompile Include="FileMonitorMiniFilter.c" />
+    <ClCompile Include="Communication.c" />
+    <ClCompile Include="main.c" />
     <Inf Include="FileMonitorMiniFilter.inf" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
@@ -277,6 +278,7 @@
     <FilesToPackage Include="$(TargetPath)" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Communication.h" />
     <ClInclude Include="mainHeader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
