@@ -227,6 +227,9 @@
       <ImportLibrary>Ntifs.h</ImportLibrary>
       <SubSystem>Native</SubSystem>
     </Link>
+    <DriverSign>
+      <FileDigestAlgorithm>SHA256</FileDigestAlgorithm>
+    </DriverSign>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='omar|x64'">
     <Link />
