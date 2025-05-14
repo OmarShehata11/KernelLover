@@ -7,9 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FileMonitorMiniFilter", "Fi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ControlFilterApp", "ControlFilterApp\ControlFilterApp.vcxproj", "{7B4FA9BB-61C6-4C27-B5D9-DEDEBCE4F791}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TheCYaraAgent", "TheCYaraAgent", "{AD7DE5A2-A106-4FB5-911A-448551756A66}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheCYaraAgent", "..\TheCYaraAgent\TheCYaraAgent\TheCYaraAgent.vcxproj", "{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheCYaraAgent", "TheCYaraAgent\TheCYaraAgent.vcxproj", "{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -89,10 +87,10 @@ Global
 		{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}.Debug|x64.Build.0 = Debug|x64
 		{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}.Debug|x86.ActiveCfg = Debug|Win32
 		{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}.Debug|x86.Build.0 = Debug|Win32
-		{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}.omar|ARM.ActiveCfg = Debug|x64
-		{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}.omar|ARM.Build.0 = Debug|x64
-		{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}.omar|ARM64.ActiveCfg = Debug|x64
-		{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}.omar|ARM64.Build.0 = Debug|x64
+		{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}.omar|ARM.ActiveCfg = Debug|Win32
+		{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}.omar|ARM.Build.0 = Debug|Win32
+		{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}.omar|ARM64.ActiveCfg = Debug|Win32
+		{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}.omar|ARM64.Build.0 = Debug|Win32
 		{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}.omar|x64.ActiveCfg = Debug|x64
 		{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}.omar|x64.Build.0 = Debug|x64
 		{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}.omar|x86.ActiveCfg = Debug|Win32
@@ -106,9 +104,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3} = {AD7DE5A2-A106-4FB5-911A-448551756A66}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {302A6F8C-7D82-4E88-9227-B4F1E5AD503C}

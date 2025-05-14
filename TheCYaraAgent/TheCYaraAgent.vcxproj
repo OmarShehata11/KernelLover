@@ -131,7 +131,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\getopt_mb_uni_src_2022\getopt.c" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>

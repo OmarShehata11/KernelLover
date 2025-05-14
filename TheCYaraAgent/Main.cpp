@@ -9,7 +9,6 @@
 #include <cctype>
 #include <iostream>
 #include <filesystem>
-#include "../getopt_mb_uni_src_2022/getopt.h"
 #include "yaraHead.h"
 
 
