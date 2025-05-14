@@ -9,9 +9,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ControlFilterApp", "Control
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheCYaraAgent", "TheCYaraAgent\TheCYaraAgent.vcxproj", "{0C41F51F-2D8A-4BBE-BF15-0C693E73A4C3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HypervisorTest", "..\..\HypervisorTest\HypervisorTest\HypervisorTest.vcxproj", "{47A2C7D6-5F6E-481B-B58B-AA4734967FF1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HypervisorTest", "HypervisorTest\HypervisorTest.vcxproj", "{47A2C7D6-5F6E-481B-B58B-AA4734967FF1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HypervisorUsermode", "..\..\HypervisorTest\HypervisorUsermode\HypervisorUsermode.vcxproj", "{EC015EC6-3E9F-4805-83C3-03C2E15CE9D5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HypervisorUsermode", "HypervisorUsermode\HypervisorUsermode.vcxproj", "{EC015EC6-3E9F-4805-83C3-03C2E15CE9D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,12 @@
+#pragma once
+
+
+#define HV_CTL_CODE CTL_CODE(FILE_DEVICE_UNKNOWN, 0x8ccc, METHOD_BUFFERED, FILE_READ_DATA | FILE_WRITE_DATA)
+
+#define HV_BUFFER_SIZE sizeof(HV_BUFFER)
+
+typedef struct _HV_BUFFER
+{
+	wchar_t Buffer[1024];
+}HV_BUFFER, * PHV_BUFFER;
+
