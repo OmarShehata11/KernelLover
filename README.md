@@ -136,7 +136,8 @@ This graduation project demonstrates:
 - Implementation of enterprise-grade security solutions
 - Integration of multiple complex systems and technologies
 - Real-world application of cybersecurity principles
-
+## DeepWiki
+See a full overview on the architecture and how my project works at this link: https://deepwiki.com/OmarShehata11/KernelLover
 ## 📝 License
 
 This project was developed for educational purposes as a graduation project. Please ensure compliance with all applicable laws and regulations if using or modifying this code.
