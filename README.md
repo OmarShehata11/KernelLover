@@ -41,6 +41,8 @@ KernelLover-AV follows a layered security architecture with components operating
 - Hardware-level isolation and monitoring capabilities
 - Extended Page Tables (EPT) and VM control structures
 
+> “I designed the hypervisor with the goal of using EPT for API hooking. The current version supports single-core virtualization, and I’m still building toward full EPT support.”
+
 ### 4. Central Control System
 - **ControlFilterApp**: Unified management interface
 - Component coordination and configuration
