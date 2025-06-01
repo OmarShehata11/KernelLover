@@ -1,5 +1,8 @@
-# KernelLover-AV <img src="./file.png" alt="Logo" width="180"/>
+# KernelLover-AV 
 
+<p align="center">
+  <img src="./file.png" alt="Logo" width="100" hight="100"/>
+</p>
 A comprehensive hypervisor-based antivirus solution that combines kernel-level file system monitoring, YARA pattern matching, and Intel VMX virtualization technologies to provide multi-layered protection against malware and security threats.
 
 ## 🎓 About This Project
